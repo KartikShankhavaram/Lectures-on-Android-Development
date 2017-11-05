@@ -1,0 +1,17 @@
+{
+  "name": "Lectures-on-Android-Development",
+  "version": "1.0.0",
+  "description": "A collection of lectures for Android Development",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cybros/Lectures-on-Android-Development.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cybros/Lectures-on-Android-Development/issues"
+  },
+  "homepage": "https://github.com/Cybros/Lectures-on-Android-Development#readme"
+}
